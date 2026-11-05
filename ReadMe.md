@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hey there! 👋 I'm Vansh More, a Computer Applications student and aspiring Software Developer from Pune, India. I enjoy building practical solutions through Full-Stack Development, AI, and Data Analytics. I'm passionate about learning new technologies, solving real-world problems, and turning ideas into impactful projects. 🚀<br>E-GovSphere, Integrivision AI, LexVault AI, and exploring innovative AI-powered solutions.<br>Open-source projects, Full-Stack Web Applications, AI/ML projects, and innovative tech solutions.<br>Advanced Full-Stack Development, AI/ML integration, system design, and building scalable applications.<br>React.js, Node.js, MongoDB, Python, AI/ML, and Data Analytics.<br>C, C++, Python, HTML, CSS, JavaScript, Web Development, Git & GitHub, and my ongoing projects.<br>I believe every real-world problem is an opportunity to build something meaningful. I love turning random ideas into working projects! 💡<br>
+Hey there! 👋 I'm Vansh More, a Computer Applications student and aspiring Software Developer from Pune, India. I enjoy building practical solutions through Full-Stack Development, AI, and Data Analytics. I'm passionate about learning new technologies, solving real-world problems, and turning ideas into impactful projects. 🚀<br>E-GovSphere, Integrivision AI, LexVault AI, and exploring innovative AI-powered solutions.<br>Open-source projects, Full-Stack Web Applications, AI/ML projects, and innovative tech solutions.<br>Advanced Full-Stack Development, AI/ML integration, system design, and building scalable applications.<br>React.js, Node.js, MongoDB, Python, AI/ML, and Data Analytics.<br>C, C++, Python, HTML, CSS, JavaScript, Web Development, Git & GitHub, and my ongoing projects.<br>I believe every real-world problem is an opportunity to build something meaningful. I love turning random ideas into working projects! 💡
+## 🏆 Achievements & Recognition
+
+- 🚀 Smart India Hackathon (SIH) 2026 Participant
+- 🥇 Won Round 1 of the Internal Hackathon
+- 🎯 Qualified for Round 2 of SIH 2026
+- 💻 Building real-world software solutions through collaborative development.<br>
 
 
 ## 🌐 Socials:
